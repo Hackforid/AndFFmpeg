@@ -1,8 +1,8 @@
-/Users/kleist/code/test/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/ffmpeg_filter.o: \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg_filter.c \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h \
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/ffmpeg_filter.o: \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg_filter.c \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/config.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavcodec/avcodec.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/samplefmt.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/avutil.h \
@@ -47,11 +47,11 @@
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/pixdesc.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/imgutils.h
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h:
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/config.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h:
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/libavcodec/avcodec.h:
 

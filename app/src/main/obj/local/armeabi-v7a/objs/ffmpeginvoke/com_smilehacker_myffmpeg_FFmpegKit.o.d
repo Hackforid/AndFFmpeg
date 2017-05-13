@@ -1,9 +1,9 @@
-/Users/kleist/code/test/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/com_smilehacker_myffmpeg_FFmpegKit.o: \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.c \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h \
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/com_smilehacker_myffmpeg_FFmpegKit.o: \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.c \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.h \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/config.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavcodec/avcodec.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/samplefmt.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/avutil.h \
@@ -38,13 +38,13 @@
   /Users/kleist/Downloads/ffmpeg-3.0.7/libswresample/swresample.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libswresample/version.h
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/com_smilehacker_myffmpeg_FFmpegKit.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h:
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/config.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h:
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/libavcodec/avcodec.h:
 

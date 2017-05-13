@@ -1,5 +1,5 @@
-/Users/kleist/code/test/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/ffmpeg.o: \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.c \
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/ffmpeg.o: \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.c \
   /Users/kleist/Downloads/ffmpeg-3.0.7/config.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavformat/avformat.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavcodec/avcodec.h \
@@ -50,8 +50,8 @@
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavfilter/version.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavfilter/buffersrc.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavfilter/buffersink.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libswscale/swscale.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libswscale/version.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/eval.h \
@@ -157,9 +157,9 @@
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/libavfilter/buffersink.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/ffmpeg.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/ffmpeg.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h:
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/libswscale/swscale.h:
 

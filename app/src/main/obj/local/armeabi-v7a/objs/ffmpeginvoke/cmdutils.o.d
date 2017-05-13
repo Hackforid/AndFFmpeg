@@ -1,5 +1,5 @@
-/Users/kleist/code/test/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/cmdutils.o: \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.c \
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/obj/local/armeabi-v7a/objs/ffmpeginvoke/cmdutils.o: \
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.c \
   /Users/kleist/Downloads/ffmpeg-3.0.7/config.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/compat/va_copy.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavformat/avformat.h \
@@ -49,7 +49,7 @@
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/parseutils.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/eval.h \
   /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/ffversion.h \
-  /Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h
+  /Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/config.h:
 
@@ -149,4 +149,4 @@
 
 /Users/kleist/Downloads/ffmpeg-3.0.7/libavutil/ffversion.h:
 
-/Users/kleist/code/test/MyFFmpeg/app/src/main/jni/cmdutils.h:
+/Users/kleist/code/pro/MyFFmpeg/app/src/main/jni/cmdutils.h:

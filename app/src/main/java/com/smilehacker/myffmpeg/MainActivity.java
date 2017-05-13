@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity {
                 String fileLogoChange  = Environment.getExternalStorageDirectory() + "/ushow/1.ts";
                 final String cmd1 = String.format("-i %s -vcodec copy -acodec copy -f mpegts %s", fileLogo, fileLogoChange);
                 final String cmd0 = String.format("-i %s", fileLogo);
-                FFmpegKit.run((cmd0).split(" "));
+                FFmpegKit.run((cmd1).split(" "));
+
             }
         });
     }

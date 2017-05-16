@@ -1,1 +1,1 @@
-include ':app', ':test', 'un7zip'
+include ':app', ':ffmpeg'

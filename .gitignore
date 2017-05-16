@@ -15,6 +15,5 @@ gen-external-apklibs
 build/
 *.apk
 *.hprof
-gradle/
 infer-out/
 obj/
